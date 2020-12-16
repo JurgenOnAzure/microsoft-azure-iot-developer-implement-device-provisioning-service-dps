@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iot-developer-dps-m1", "iot-developer-dps-m1.csproj", "{AD4413CD-C36B-46D0-88F4-1C9CC55F26B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD4413CD-C36B-46D0-88F4-1C9CC55F26B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4413CD-C36B-46D0-88F4-1C9CC55F26B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4413CD-C36B-46D0-88F4-1C9CC55F26B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4413CD-C36B-46D0-88F4-1C9CC55F26B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DA866C7-ABB2-4184-B930-67295C7C6B11}
+	EndGlobalSection
+EndGlobal
