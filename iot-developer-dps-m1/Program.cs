@@ -1,5 +1,5 @@
 ﻿/*
-  This demo application accompanies Pluralsight course 'Microsoft Azure IoT Developer: Configure Solutions for Time Series Insights (TSI)', 
+  This demo application accompanies Pluralsight course 'Microsoft Azure IoT Developer: Implement the Device Provisioning Service (DPS)', 
   by Jurgen Kevelaers. See https://app.pluralsight.com/profile/author/jurgen-kevelaers.
 
   MIT License
