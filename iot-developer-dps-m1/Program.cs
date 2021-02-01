@@ -1,6 +1,6 @@
 ﻿/*
   This demo application accompanies Pluralsight course 'Microsoft Azure IoT Developer: Implement the Device Provisioning Service (DPS)', 
-  by Jurgen Kevelaers. See https://app.pluralsight.com/profile/author/jurgen-kevelaers.
+  by Jurgen Kevelaers. See https://pluralsight.pxf.io/iot-dps.
 
   MIT License
 
