@@ -4,6 +4,10 @@
 
 Hi!
 
-Here you'll find the demo code for my Pluralsight course [Microsoft Azure IoT Developer: Implement the Device Provisioning Service (DPS)](https://www.pluralsight.com/authors/jurgen-kevelaers).
+Here you'll find the demo code for my Pluralsight course [Microsoft Azure IoT Developer: Implement the Device Provisioning Service (DPS)](https://pluralsight.pxf.io/iot-dps).
 
 I hope you enjoyed the course. If you have any questions, please don't hesitate don't contact me!
+
+# iot-developer-dps-m1
+
+This .NET project shows you how to do enrollment (registration) requests to the Azure Device Provisioning Service (DPS), using Symmetric Key attestation.
